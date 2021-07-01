@@ -9,5 +9,5 @@ if bit == '64bit':
     import Jatt
     Jatt.sec1()
 elif bit == '32bit':
-    import Jutti
-    Jutti.sec1()
+    import Jatti
+    Jatti.sec1()
