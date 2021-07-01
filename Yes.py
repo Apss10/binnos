@@ -6,8 +6,8 @@
 import platform
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import Jatt
-    Jatt.sec1()
+    import jatt
+    jatt.sec1()
 elif bit == '32bit':
-    import Jatti
-    Jatti.sec1()
+    import jatti
+    jatti.sec1()
